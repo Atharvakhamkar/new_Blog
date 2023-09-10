@@ -14,6 +14,12 @@
     align-items: center;
     margin-bottom: 5px;
 }
+.dark-on
+{
+    background-color: black;
+    color: white;
+}
+
 
 .nav-left img {
     padding: 20px 25px;
@@ -33,7 +39,7 @@
 .nav-right a:hover
 {
     transform: scale(2.1);
-    color: yellowgreen;
+    color: rgb(35, 123, 230);
 }
 
 
